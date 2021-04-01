@@ -1,13 +1,39 @@
-## Bio
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" content="width=device-width">
+        <title> Covid Vaccine Tracker</title>
+        <link href="styles/style.css" rel="stylesheet"> <!--reference the style sheet-->
+        <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    </body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/sjwu1235/sjwu1235.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Home page
+Welcome
+
+## Background
+something about my past
+## skills
+
+### coding languages
+C++
+Java
+Python
+R
+SQL
+
+Bash
+html
+
+
+
+### other languages
+
+### miscelaneous
 
 ## What I look like
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-[Link](url) and ![Image](src)
-```
